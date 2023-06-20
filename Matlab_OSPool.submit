@@ -1,6 +1,6 @@
 +SingularityImage = "/cvmfs/singularity.opensciencegrid.org/opensciencegrid/osgvo-matlab-runtime:R2018b"
 
-executable = spill_calculation.m
+executable = spill_calculation
 arguments = 
 
 log = log/spill$(Process).log
